@@ -1,0 +1,21 @@
+body{
+   background-color:  rgba(172, 109, 16, 0.911);
+   opacity: 0.6
+}
+.para-with-border{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(219, 125, 90);
+}
+.extenal-tag{
+    font-size: large;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+}
+.tranformation-apply{
+    text-transform: capitalize;
+
+}
