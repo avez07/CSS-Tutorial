@@ -1,5 +1,5 @@
 body{
-   background-color:  rgba(172, 109, 16, 0.911);
+   background-color:  rgb(78, 240, 252);
    opacity: 0.6
 }
 .para-with-border{
@@ -17,5 +17,13 @@ body{
 }
 .tranformation-apply{
     text-transform: capitalize;
+    /* text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: none; */
 
+}
+.decoration-apply{
+    /* text-decoration: underline;
+    text-decoration: overline; */
+    text-decoration: line-through;
 }
